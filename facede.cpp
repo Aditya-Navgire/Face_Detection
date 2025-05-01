@@ -69,7 +69,7 @@ int main() {
         );
         putText(
             video_stream,
-            "~ Sanika",
+            "~ FACE-DETECTION",
             Point(500, 475),
             FONT_HERSHEY_SCRIPT_SIMPLEX,
             1,
